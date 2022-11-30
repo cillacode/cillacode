@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cillacode
-- 👀 I’m interested in node.js
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on developing angular projects
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on developing projects
 - 📫 How to reach me twitter @pricyhits15
 
 <!---
